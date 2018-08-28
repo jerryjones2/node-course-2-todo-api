@@ -27,3 +27,10 @@ name: node-course-2-todo-api
 
 git remote add origin https://github.com/jerryjones2/node-course-2-todo-api.git
 git push -u origin master
+
+changes:
+git status
+git add .
+git commit -m 'Add delete script'
+git push
+
