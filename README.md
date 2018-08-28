@@ -31,6 +31,18 @@ git push -u origin master
 changes:
 git status
 git add .
-git commit -m 'Add delete script'
+git commit -m ''
 git push
+
+mongoosejs.com
+===============
+npm i mongoose --save
+
+google: mongoose validators
+google: mongoose schemas
+
+npm i express body-parser --save
+
+https://httpstatuses.com
+
 
