@@ -32,6 +32,8 @@ changes:
 git status
 git add .
 git commit -m ''
+    or
+git commit -a -m ''
 git push
 
 mongoosejs.com
